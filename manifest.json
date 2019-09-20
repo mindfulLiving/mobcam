@@ -2,9 +2,13 @@
   "name": "Test PWA MobCam",
   "short_name": "MobCam PWA manif_txt",
   "description": "description field",
+  
   "start_url": "https://mindfulliving.github.io/mobcam/",
+  "display": "standalone",
+  
   "background_color": "#000000",
   "theme_color": "#0f4a73",
+   
   "icons": [{
     "src": "icon-256.png",
     "sizes": "256x256",
